@@ -1,3 +1,7 @@
+//Program for counting number of words start with the letter "N"
+//Did for trying batch processing in flink;
+
+
 package com.kamali.exe
 
 import org.apache.flink.api.java.utils.ParameterTool
