@@ -2,7 +2,6 @@
 //Did for trying batch processing in flink;
 
 
-package com.kamali.exe
 
 import org.apache.flink.api.java.utils.ParameterTool
 import org.apache.flink.api.scala._
